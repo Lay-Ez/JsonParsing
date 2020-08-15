@@ -1,42 +1,42 @@
 [
   {
-    "type": "HOURLY",
+    "type": "hourly",
     "id": "aaa35",
     "name": "Adam",
     "rate": 10.5
   },
   {
-    "type": "HOURLY",
+    "type": "hourly",
     "id": "f456hj",
     "name": "Ben",
     "rate": 7.5
   },
   {
-    "type": "HOURLY",
+    "type": "hourly",
     "id": "g56hj7",
     "name": "Clare",
     "rate": 12
   },
   {
-    "type": "HOURLY",
+    "type": "hourly",
     "id": "dfgd43",
     "name": "David",
     "rate": 14
   },
   {
-    "type": "MONTHLY",
+    "type": "monthly",
     "id": "489jk0",
     "name": "Ethan",
     "rate": 2500
   },
   {
-    "type": "MONTHLY",
+    "type": "monthly",
     "id": "36hjlo",
     "name": "Frank",
     "rate": 2500
   },
   {
-    "type": "MONTHLY",
+    "type": "monthly",
     "id": "152yt1",
     "name": "Garry",
     "rate": 1000
